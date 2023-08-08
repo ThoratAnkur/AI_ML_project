@@ -1,0 +1,38 @@
+body{
+    /* fallback for old browsers */
+    background: #1168cb;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, #2E3192, #1BFFFF);
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right,#614385 , #516395);
+    color:rgb(0, 0, 0);
+    
+    }
+th{
+    background-color: rgba(255, 255, 255, 0.356);
+    color:rgb(0, 0, 0);
+    position: sticky;
+    top: 0;
+    font-family: 'Comfortaa', cursive;
+}
+tr{
+    background-color: rgba(255, 255, 255, 0.199);
+    color:rgb(0, 0, 0);
+}
+td{
+    font-family: 'Urbanist', sans-serif;
+}
+
+#edit_but,#del_but{
+    color: #473161;
+}
+#edit_but:hover,#del_but:hover{
+    color: #ffffff;
+}
+
+.container #insert_but{
+    background-color: rgba(255, 255, 255, 0);
+}
+

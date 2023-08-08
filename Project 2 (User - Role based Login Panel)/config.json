@@ -1,0 +1,14 @@
+{
+  "params": {
+    "local_server": true,
+    "local_uri": "mysql://root:@localhost/ankur",
+    "prod_uri": "mysql://root:@localhost/ankur",
+    "title": "Login Panel",
+    "user_name": "admin",
+    "user_pass": "admin",
+    "user_email": "Admin@gmail.com",
+    "user_role": "Admin",
+    "user_about": "this is the admin user",
+    "error": "Wrong username/Password"
+  }
+}
